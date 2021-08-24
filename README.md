@@ -12,6 +12,7 @@ In my free time I like to [skydive](https://www.instagram.com/adamtuttle/) (I ma
 
 Other places you can find me:
 - [Twitter](https://twitter.com/adamtuttle)
+- [TikTok (skydiving, mostly)](https://www.tiktok.com/@planespooppeople)
 - [Instagram (skydiving, mostly)](https://www.instagram.com/adamtuttle/)
 - [Instagram (woodworking)](https://www.instagram.com/alteregowoodworks/)
 - [GoodReads](https://www.goodreads.com/author/show/7514385.Adam_Tuttle)
