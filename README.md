@@ -8,12 +8,12 @@ I have [a blog where I write about mostly tech stuff](https://adamtuttle.codes).
 
 I am the founder and co-host of the [Working Code Podcast](https://workingcode.dev), and I wrote a book called [REST Assured: A Pramatic Approach to API Design](https://restassuredbook.com).
 
-In my free time I like to [skydive](https://www.instagram.com/adamtuttle/) (I made my 500th jump in May 2021!), make wooden furniture, go hiking and camping with my family, and sometimes I still find time to work on open source software.
+In my free time I like to [skydive]([https://www.instagram.com/adamtuttle/](https://www.tiktok.com/@planespooppeople)) (I made my 500th jump in May 2021!), make wooden furniture, go hiking and camping with my family, and sometimes I still find time to work on open source software.
 
 Other places you can find me:
 - [Twitter](https://twitter.com/adamtuttle)
-- [TikTok (skydiving, mostly)](https://www.tiktok.com/@planespooppeople)
-- [Instagram (skydiving, mostly)](https://www.instagram.com/adamtuttle/)
+- [Mastodon](https://jawns.club/@adamtuttle)
+- [TikTok (skydiving)](https://www.tiktok.com/@planespooppeople)
 - [Instagram (woodworking)](https://www.instagram.com/alteregowoodworks/)
 - [GoodReads](https://www.goodreads.com/author/show/7514385.Adam_Tuttle)
 
