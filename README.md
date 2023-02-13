@@ -4,7 +4,7 @@ I built a career on writing CFML, but I've since transitioned to TypeScript, Rea
 
 I'm the CTO of [AlumnIQ](https://www.alumniq.com/).
 
-I have [a blog where I write about mostly tech stuff](https://adamtuttle.codes). Lately I've been on a mission to get _better_ at testing.
+I have [a blog where I write about mostly tech stuff](https://adamtuttle.codes). Lately I've been on a mission to get better at testing.
 
 I am the founder and co-host of the [Working Code Podcast](https://workingcode.dev), and I wrote a book called [REST Assured: A Pramatic Approach to API Design](https://restassuredbook.com).
 
