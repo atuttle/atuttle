@@ -11,6 +11,6 @@ I am the founder and co-host of the [Working Code Podcast](https://workingcode.d
 In my free time I like to [skydive](https://www.tiktok.com/@planespooppeople) (900+ jumps to date), make wooden bowls and furniture, go hiking and camping with my family, and sometimes I still find time to work on open source software.
 
 Other places you can find me:
-- [Mastodon](https://jawns.club/@adamtuttle)
+- [Bluesky](https://bsky.app/profile/adamtuttle.codes)
 - [TikTok (skydiving)](https://www.tiktok.com/@planespooppeople)
 - [GoodReads](https://www.goodreads.com/author/show/7514385.Adam_Tuttle)
