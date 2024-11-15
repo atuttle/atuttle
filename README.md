@@ -1,6 +1,6 @@
 ## Hey, I'm Adam. 
 
-I built a career on writing CFML, but I've since transitioned to TypeScript, React, and hopefully, Svelte. 
+I built a career on writing CFML, but I've since transitioned to TypeScript, React, and Svelte. 
 
 I'm the CTO of [AlumnIQ](https://www.alumniq.com/).
 
